@@ -1,12 +1,7 @@
 * {
-    margin: 0px;
-    padding: 0px;
+    margin: 0;
+    padding: 0;
     box-sizing: border-box;
-  }
-  
-  main {
-    height: 800px;
-    background: #fff;
   }
 
   /* SECTION MENU PRINCIPAL */
@@ -35,6 +30,12 @@
     height: 40px;
     padding: 12px;
     margin: 2px 0 0 2px;
+    cursor: pointer;
+  }
+
+  .gg-icon-apps:hover {
+    background-color: #EFF0F0;
+    border-radius: 50%;
   }
 
   .gg-icon-apps img {
@@ -216,6 +217,8 @@
   .gg-bar-group-left p:hover, .gg-bar-group-rigth p:hover {
     text-decoration: underline;
   }
+
+  /* RESPONSIVIDADE */
 
   @media screen and (max-width: 1200px) {
 
