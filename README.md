@@ -23,7 +23,7 @@ Depois da implantação do código, o resultado obtido foi:
 > ![image](https://user-images.githubusercontent.com/119085196/217019698-23d9f440-be2d-4bbc-a7de-e6b3accc3c9c.png)
 > pequena mudança na destribuição de informação no rodapé da página.
 
-- min-max (1500px):
+- min-max (500px):
 
 > ![image](https://user-images.githubusercontent.com/119085196/217020052-fb0acd60-ff07-4c25-aeb5-661c1a87e571.png) <br>
 > mudança no tamanho da barra de pesquisar.
