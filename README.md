@@ -1,4 +1,4 @@
-# GOOGLE :computer:
+# GOOGLE :mag:
 
 ### :speech_balloon: **DESCRIÇÃO**
 
@@ -27,7 +27,5 @@ Depois da implantação do código, o resultado obtido foi:
 
 > ![image](https://user-images.githubusercontent.com/119085196/217020052-fb0acd60-ff07-4c25-aeb5-661c1a87e571.png) <br>
 > mudança no tamanho da barra de pesquisar.
-
-<br>
 
 ### :raising_hand: **OBRIGADX PELA ATENÇÃO!**
